@@ -1,2 +1,3 @@
 Edit 1 in branch1
 Edit 2 in branch1
+Edit 3 in branch1
