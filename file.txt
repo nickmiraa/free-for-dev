@@ -1,2 +1,3 @@
 New edit 1 in new clone branch1
 New edit 2 in new clone branch1
+New edit 3 in new clone branch1
